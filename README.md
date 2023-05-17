@@ -1,1 +1,1 @@
-# Internshala_webdevelopment_training
+# Internshala_webdevelopment_assignment
